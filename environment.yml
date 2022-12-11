@@ -1,1 +1,8 @@
+name: machine-learning-env
 
+dependencies:
+  - NumPy
+  - SciPy
+  - pandas
+  - pip
+  - TensorFlow
